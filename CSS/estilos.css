@@ -424,8 +424,9 @@ p {
     padding: 38px;
     overflow: hidden;
     border: 1px solid var(--borde);
-    border-radius: 28px;
+    border-radius: 12px;
     background-color: var(--gris-claro);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
     transition:
         transform 0.3s ease,
         box-shadow 0.3s ease;
